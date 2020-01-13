@@ -1,0 +1,8 @@
+{
+    "url" : " wss://ebusdev-chargerapp-ebusdev.eu1.mindsphere.io/ChargingStations/ebusdev",
+    "identifier" : "976",
+    "protocol" : "ocpp1.6",
+    "TRANSPORT_LAYER" : "websocket",
+    "fromHeader" : "undefined",
+    "remoteActionPort" : "null"
+}

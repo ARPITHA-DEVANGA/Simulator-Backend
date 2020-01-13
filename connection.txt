@@ -1,0 +1,17 @@
+WebSocketClient {
+  _events: [Object: null prototype] {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config: {
+    maxReceivedFrameSize: 1048576,
+    maxReceivedMessageSize: 8388608,
+    fragmentOutgoingMessages: true,
+    fragmentationThreshold: 16384,
+    webSocketVersion: 13,
+    assembleFragments: true,
+    disableNagleAlgorithm: true,
+    closeTimeout: 5000,
+    tlsOptions: {}
+  },
+  _req: null
+}
